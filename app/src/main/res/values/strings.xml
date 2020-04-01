@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tanpaDataBinding30Maret20</string>
+    <string name="_name">Name</string>
+    <string name="_nameUser">Grace</string>
+    <string name="_Lastname">Last name</string>
+    <string name="_nameUser2">Hopper</string>
+    <string name="likes">Likes</string>
+    <string name="score">3</string>
+    <string name="likebtn">Like</string>
+    <string name="imageforlike">image_for_like</string>
+</resources>
